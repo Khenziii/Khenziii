@@ -7,6 +7,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=khenziii&layout=compact&theme=dark)
 
-![Profile Views Counter](https://komarev.com/ghpvc/?username=Khenziii&color=2A2A29)
+![Profile Views Counter](https://komarev.com/ghpvc?username=Khenziii&color=2A2A29)
 <br>
 <i>The counter is here since 24/08/2023.</i>
