@@ -1,8 +1,5 @@
 :)
 
-<!---for personal info (some graphs and stuff)-->
-![](https://hit.yhype.me/github/profile?user_id=126098761)
-
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=khenzii&theme=dark&langs_count=3)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=khenziii&layout=compact&theme=dark&langs_count=999&hide=fluent)
